@@ -3,7 +3,7 @@
 <p align="center">
   <img src="presentation_content.jpg" width="1000"/>
   <br>
-  <em>Trends in US Computer, Engineering, & Science Occupations</em>
+  <img src="page1.jpg" width="1000"/>
 </p>
 
 \
