@@ -1,7 +1,7 @@
 # Global_Weather_Report
 
 <p align="center">
-  <img src="poster.png" alt="Image Description" width="500"/>
+  <img src="presentation_content.png" alt="Image Description" width="500"/>
   <br>
   <em>Trends in US Computer, Engineering, & Science Occupations</em>
 </p>
